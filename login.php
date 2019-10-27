@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Login Form</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap.css">
 	
 </head>
@@ -11,7 +11,7 @@
 	<div class="row">
 		
 		<div class="col-lg-6">
-			<h2 class="text-center">Login Form</h2>
+			<h2 class="text-center text-muted">Login Form</h2>
 			<form action="validation.php" method="post">
 					<div class="form-group">
 					<label>username</label><br>
